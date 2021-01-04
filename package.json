@@ -1,0 +1,13 @@
+{
+  "name": "js-numerical-distortion",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:alexjilkin/js-numerical-distortion.git",
+  "author": "Alex Jilkin <jilkinalex@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "speaker": "^0.5.2",
+    "wav": "^1.0.2"
+  },
+  "type": "module"
+}
